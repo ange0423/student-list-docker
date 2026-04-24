@@ -80,12 +80,13 @@ Invoke-RestMethod -Uri "http://localhost:5000/pozos/api/v1.0/get_student_ages" -
 
 > **Note :** Les captures ci-dessous valident le bon fonctionnement de l'infrastructure.
 
-1.  **Statut des Conteneurs** 
-2.  **Interface Web Fonctionnelle** 
-3.  **Registre Privé (Image poussée)** 
+1. Statut des Conteneurs : ![Docker PS](capture/docker_ps.png)
 
+2. Interface Web Fonctionnelle : ![Website](capture/website_list.png)
+
+3. Registre Privé (Image poussée) : ![Registry UI](capture/registry_ui.png)
 ---
 
 ## 7. Auteur
 **FODING KAMDOM ANGE MICHELE**
-*Étudiante en 4ème année cycle Ingénieur en Génie Logiciel*
+*Étudiante en 4ème année cycle Ingénieur*
