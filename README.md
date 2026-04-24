@@ -1,9 +1,3 @@
-Bien sûr ! Pour un projet de génie logiciel, surtout dans un cycle d'ingénierie, le **README** est votre vitrine. Il doit être structuré, technique et clair.
-
-Puisque tu as déjà réussi à tout mettre sur GitHub, voici un modèle de **README.md** complet et professionnel, spécifiquement adapté à ton projet pour **CCNTechnologies**.
-
----
-
 # 📑 Rapport de POC : Conteneurisation de l'Application Pozos
 
 ## 1. Contexte du Projet
